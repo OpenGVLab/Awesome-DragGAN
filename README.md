@@ -38,7 +38,7 @@ June 26 2023
 
 ## Repositories
 
--  [DragGAN](https://github.com/OpenGVLab/DragGAN): Unoffficial Implementation by Zeqiang Lai, OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social&label=Star)](https://github.com/OpenGVLab/DragGAN)
+-  [DragGAN](https://github.com/OpenGVLab/DragGAN): Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social&label=Star)](https://github.com/OpenGVLab/DragGAN)
 -  [DragGAN](https://github.com/skimai/DragGAN): Unoffficial Implementation by Skim AI Technologies, with a streamlit interface. [![Star](https://img.shields.io/github/stars/skimai/DragGAN.svg?style=social&label=Star)](https://github.com/skimai/DragGAN)
 -  [Drag3D](https://github.com/ashawkey/Drag3D): DragGAN meets GET3D for interactive mesh generation and editing. [![Star](https://img.shields.io/github/stars/ashawkey/Drag3D.svg?style=social&label=Star)](https://github.com/ashawkey/Drag3D)
 - [DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI): Packaged DragGAN Installtion for Windows.  [![Star](https://img.shields.io/github/stars/zhaoyun0071/DragGAN-Windows-GUI.svg?style=social&label=Star)](https://github.com/zhaoyun0071/DragGAN-Windows-GUI)
