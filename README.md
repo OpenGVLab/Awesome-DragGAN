@@ -24,14 +24,6 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 > </br>
 > [[`Code`](https://github.com/XingangPan/DragGAN)]  [[`Project Page`](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]  [[`Official Implementation`](https://github.com/XingangPan/DragGAN)]
 
-```bibtex
-@inproceedings{pan2023draggan,
-    title={Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold},
-    author={Pan, Xingang and Tewari, Ayush, and Leimk{\"u}hler, Thomas and Liu, Lingjie and Meka, Abhimitra and Theobalt, Christian},
-    booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
-    year={2023}
-}
-```
 
 ## Papers
 
