@@ -18,11 +18,11 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 
 ## Starting Point [![Star](https://img.shields.io/github/stars/XingangPan/DragGAN.svg?style=social&label=Star)](https://github.com/XingangPan/DragGAN)
 
-[Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://arxiv.org/abs/2305.10973)
-</br>
-Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt
-</br>
-[[`Code`](https://github.com/XingangPan/DragGAN)]  [[`Project Page`](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]  [[`Official Implementation`](https://github.com/XingangPan/DragGAN)]
+> [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://arxiv.org/abs/2305.10973)
+> </br>
+> Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt
+> </br>
+> [[`Code`](https://github.com/XingangPan/DragGAN)]  [[`Project Page`](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]  [[`Official Implementation`](https://github.com/XingangPan/DragGAN)]
 
 
 ## Papers
