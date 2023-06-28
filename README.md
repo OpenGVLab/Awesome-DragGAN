@@ -12,6 +12,7 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 - [Papers](#papers)
 - [Repositories](#repositories)
 - [Tutorials](#tutorials)
+- [Pretrained GAN Models](#pretrained-gan-models)
 
 > [Contributions](https://github.com//OpenGVLab/Awesome-DragGAN/pulls) are welcome!
 
@@ -34,11 +35,13 @@ Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai
 </br>
 June 26 2023
 
+
 ## Repositories
 
 -  [DragGAN](https://github.com/OpenGVLab/DragGAN): Unoffficial Implementation by Zeqiang Lai, OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social&label=Star)](https://github.com/OpenGVLab/DragGAN)
 -  [DragGAN](https://github.com/skimai/DragGAN): Unoffficial Implementation by Skim AI Technologies, with a streamlit interface. [![Star](https://img.shields.io/github/stars/skimai/DragGAN.svg?style=social&label=Star)](https://github.com/skimai/DragGAN)
 -  [Drag3D](https://github.com/ashawkey/Drag3D): DragGAN meets GET3D for interactive mesh generation and editing. [![Star](https://img.shields.io/github/stars/ashawkey/Drag3D.svg?style=social&label=Star)](https://github.com/ashawkey/Drag3D)
+- [DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI): Packaged DragGAN Installtion for Windows.  [![Star](https://img.shields.io/github/stars/zhaoyun0071/DragGAN-Windows-GUI.svg?style=social&label=Star)](https://github.com/zhaoyun0071/DragGAN-Windows-GUI)
 
 
 ## Tutorials
@@ -46,3 +49,9 @@ June 26 2023
 - [How DragGAN Works: A Technical Deep Dive](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf)
 - [DragGAN: Early Access and Local Deployment Tutorial](https://zeqiang-lai.github.io/blog/posts/ai/drag_gan/)
 
+## Pretrained GAN Models
+
+- [Stylegan2](https://github.com/NVlabs/stylegan2): Car, Cat, Church, Human Face, Horse
+- [StyleGAN2-Ada](https://github.com/NVlabs/stylegan2-ada-pytorch): Cat, Dog, Wild, Human Face, Painting Face, Brecahad
+- [StyleGAN-Human](https://github.com/stylegan-human/StyleGAN-Human): Human
+- [Self-Distilled-StyleGAN](https://github.com/self-distilled-stylegan/self-distilled-internet-photos): Bicycle, Dog, Elephant, Giraffe, Horse, Lion, Parrot
