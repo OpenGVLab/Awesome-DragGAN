@@ -27,6 +27,14 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 
 ## Papers
 
+[DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models](https://arxiv.org/abs/2307.02421)
+</br>
+Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang
+</br>
+[[`Code`](https://github.com/MC-E/DragonDiffusion)]
+</br>
+July 5 2023
+
 [DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing](https://arxiv.org/abs//2306.14435)
 </br>
 Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai
