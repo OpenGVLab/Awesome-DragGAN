@@ -39,13 +39,14 @@ July 5 2023
 </br>
 Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai
 </br>
-[[`Project Page`](https://yujun-shi.github.io/projects/dragdiffusion.html)]
+[[`Project Page`](https://yujun-shi.github.io/projects/dragdiffusion.html)] [[`Code`](https://github.com/Yujun-Shi/DragDiffusion)]
 </br>
 June 26 2023
 
 
 ## Repositories
 
+- [DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion): Official Implementation for [DragDiffusion](https://arxiv.org/abs//2306.14435). [![Star](https://img.shields.io/github/stars/Yujun-Shi/DragDiffusion.svg?style=social&label=Star)](https://github.com/Yujun-Shi/DragDiffusion)
 - [DragDiffusion](https://github.com/Advocate99/DragDiffusion): Unofficial Implementation for [DragDiffusion](https://arxiv.org/abs//2306.14435). [![Star](https://img.shields.io/github/stars/Advocate99/DragDiffusion.svg?style=social&label=Star)](https://github.com/Advocate99/DragDiffusion)
 - [DragonDiffusion](https://github.com/MC-E/DragonDiffusion): Official Implementation of [DragonDiffusion](https://arxiv.org/abs/2307.02421). [![Star](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
 -  [DragGAN](https://github.com/OpenGVLab/DragGAN): Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social&label=Star)](https://github.com/OpenGVLab/DragGAN)
