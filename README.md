@@ -46,7 +46,8 @@ June 26 2023
 
 ## Repositories
 
-- [DragonDiffusion](https://github.com/MC-E/DragonDiffusion): Official Implementation of DragonDiffusion. [![Star](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
+- [DragDiffusion](https://github.com/Advocate99/DragDiffusion): Unofficial Implementation for [DragDiffusion](https://arxiv.org/abs//2306.14435). [![Star](https://img.shields.io/github/stars/Advocate99/DragDiffusion.svg?style=social&label=Star)](https://github.com/Advocate99/DragDiffusion)
+- [DragonDiffusion](https://github.com/MC-E/DragonDiffusion): Official Implementation of [DragonDiffusion](https://arxiv.org/abs/2307.02421). [![Star](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
 -  [DragGAN](https://github.com/OpenGVLab/DragGAN): Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social&label=Star)](https://github.com/OpenGVLab/DragGAN)
 -  [DragGAN](https://github.com/skimai/DragGAN): Unoffficial Implementation by Skim AI Technologies, with a streamlit interface. [![Star](https://img.shields.io/github/stars/skimai/DragGAN.svg?style=social&label=Star)](https://github.com/skimai/DragGAN)
 -  [Drag3D](https://github.com/ashawkey/Drag3D): DragGAN meets GET3D for interactive mesh generation and editing. [![Star](https://img.shields.io/github/stars/ashawkey/Drag3D.svg?style=social&label=Star)](https://github.com/ashawkey/Drag3D)
