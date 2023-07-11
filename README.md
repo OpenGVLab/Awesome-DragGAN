@@ -27,6 +27,18 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 
 ## Papers
 
+[![Star](https://img.shields.io/github/stars/LPengYang/FreeDrag.svg?style=social&label=Star)](https://github.com/LPengYang/FreeDrag)
+</br>
+[FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing](https://arxiv.org/abs/2307.04684)
+</br>
+Pengyang Ling*, Lin Chen*, Pan Zhang, Huaian Chen, Yi Jin
+</br>
+[[`Project Page`](https://lin-chen.site/projects/freedrag)] [[`Code`](https://github.com/LPengYang/FreeDrag)]
+</br>
+July 10 2023
+
+[![Star](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
+</br>
 [DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models](https://arxiv.org/abs/2307.02421)
 </br>
 Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang
@@ -35,20 +47,20 @@ Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang
 </br>
 July 5 2023
 
+[![Star](https://img.shields.io/github/stars/Yujun-Shi/DragDiffusion.svg?style=social&label=Star)](https://github.com/Yujun-Shi/DragDiffusion)
+</br>
 [DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing](https://arxiv.org/abs//2306.14435)
 </br>
-Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai
+Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai 
 </br>
 [[`Project Page`](https://yujun-shi.github.io/projects/dragdiffusion.html)] [[`Code`](https://github.com/Yujun-Shi/DragDiffusion)]
 </br>
-June 26 2023
+June 26 2023 
 
 
 ## Repositories
 
-- [DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion): Official Implementation for [DragDiffusion](https://arxiv.org/abs//2306.14435). [![Star](https://img.shields.io/github/stars/Yujun-Shi/DragDiffusion.svg?style=social&label=Star)](https://github.com/Yujun-Shi/DragDiffusion)
 - [DragDiffusion](https://github.com/Advocate99/DragDiffusion): Unofficial Implementation for [DragDiffusion](https://arxiv.org/abs//2306.14435). [![Star](https://img.shields.io/github/stars/Advocate99/DragDiffusion.svg?style=social&label=Star)](https://github.com/Advocate99/DragDiffusion)
-- [DragonDiffusion](https://github.com/MC-E/DragonDiffusion): Official Implementation of [DragonDiffusion](https://arxiv.org/abs/2307.02421). [![Star](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
 -  [DragGAN](https://github.com/OpenGVLab/DragGAN): Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social&label=Star)](https://github.com/OpenGVLab/DragGAN)
 -  [DragGAN](https://github.com/skimai/DragGAN): Unoffficial Implementation by Skim AI Technologies, with a streamlit interface. [![Star](https://img.shields.io/github/stars/skimai/DragGAN.svg?style=social&label=Star)](https://github.com/skimai/DragGAN)
 -  [Drag3D](https://github.com/ashawkey/Drag3D): DragGAN meets GET3D for interactive mesh generation and editing. [![Star](https://img.shields.io/github/stars/ashawkey/Drag3D.svg?style=social&label=Star)](https://github.com/ashawkey/Drag3D)
