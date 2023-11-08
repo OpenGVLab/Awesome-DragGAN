@@ -27,6 +27,16 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 
 ## Papers
 
+[![Star](https://img.shields.io/github/stars/ML-GSAI/SDE-Drag.svg?style=social&label=Star)](https://github.com/ML-GSAI/SDE-Drag)
+</br>
+[The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing](https://arxiv.org/abs/2311.01410)
+</br>
+Shen Nie, Hanzhong Allan Guo, Cheng Lu, Yuhao Zhou, Chenyu Zheng, Chongxuan Li
+</br>
+[[`Project Page`](https://ml-gsai.github.io/SDE-Drag-demo/)] [[`Code`](https://github.com/ML-GSAI/SDE-Drag)]
+</br>
+Nov 2 2023
+
 [![Star](https://img.shields.io/github/stars/LPengYang/FreeDrag.svg?style=social&label=Star)](https://github.com/LPengYang/FreeDrag)
 </br>
 [FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing](https://arxiv.org/abs/2307.04684)
